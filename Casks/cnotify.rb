@@ -1,6 +1,6 @@
 cask "cnotify" do
   version "0.1.0"
-  sha256 "5ebe84be78983c2b026e2bb02d420ccf00110338826460b9d61ec8f891f2e37f"
+  sha256 "a5f1bc58fc0c053663931c2e7b144fff59d1fe7aa90ecac46c8cf48b90a4ef0e"
 
   url "https://github.com/nerdmakr/claude-notify/releases/download/v#{version}/CNotify.zip"
   name "CNotify"
